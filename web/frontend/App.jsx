@@ -23,8 +23,8 @@ export default function App() {
             <NavigationMenu
               navigationLinks={[
                 {
-                  label: "Orders",
-                  destination: "/pagename",
+                  label: "Colete",
+                  destination: "/orders",
                 },
               ]}
             />
